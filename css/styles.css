@@ -1,0 +1,15 @@
+body{
+  background-color:mistyrose;
+}
+hr{
+  border-style:dotted none none none;
+  border-color:lightpink;
+  width:5%;
+  border-width:5px;
+}
+h1{
+  color:lightcoral;
+}
+h3{
+  color:lightcoral;
+}
